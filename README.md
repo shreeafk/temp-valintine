@@ -1,5 +1,5 @@
 # Just a meme website. 
-- View Live: [Click Here](https://github.com/shreeafk/temp-valintine/blob/main/index.html)
+- View Live: [Click Here](https://github.com/shreeafk/temp-valintin/index)
 
 # Contributions
 - A french & thai version of the above have been added to the site. Use the language selecter :D
